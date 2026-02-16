@@ -1,9 +1,5 @@
-# library-management-system
+# 📚Library Management System API
 A RESTful Library Management API backend designed to manage users and book inventory with secure authentication and modular architecture.
-
-# 📚 Library Management System API
-
-A RESTful backend API for managing users and book inventory in a Library Management System.  
 Built using Node.js and Express.js with a modular architecture and secure authentication.
 
 ---
