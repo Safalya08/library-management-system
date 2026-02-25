@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "surname": "Doe",
+        "email": "john.doe@example.com",
+        "issuedBook": "The Great Gatsby",
+        "issuedDate": "2024-01-15",
+        "returnDate": "2024-02-15",
+        "subscriptionType": "Premium",
+        "subscriptionDate": "2023-12-01"
+    },
+    {
+        "id": 2,
+        "name": "Jane",
+        "surname": "Smith",
+        "email": "jane.smith@example.com",
+        "issuedBook": "To Kill a Mockingbird",
+        "issuedDate": "2024-01-20",
+        "returnDate": "2024-02-20",
+        "subscriptionType": "Basic",
+        "subscriptionDate": "2024-01-01"
+    },
+    {
+        "id": 3,
+        "name": "Michael",
+        "surname": "Johnson",
+        "email": "michael.johnson@example.com",
+        "issuedBook": "1984",
+        "issuedDate": "2024-01-10",
+        "returnDate": "2024-02-10",
+        "subscriptionType": "Premium",
+        "subscriptionDate": "2023-11-15"
+    }
+]
